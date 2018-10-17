@@ -17,5 +17,6 @@
 | WARNING: Python is much more advised |
 | --- |
 
-**Note:** thanks!
-{: .note}
+<Warning>
+thanks!
+</Warning>
