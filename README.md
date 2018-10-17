@@ -13,6 +13,6 @@
 
 ### Note
 
-<aside class="notice">
+<aside class="warning">
         Python is much more advised
 </aside>
