@@ -14,7 +14,7 @@
 > python forecast-exercise
 
 ### Note
-
+{::options parse_block_html="true" /}
 {: .alert .alert-warning}
 <div class="panel panel-warning">
 **Do's**
