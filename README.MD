@@ -1,5 +1,8 @@
 #SALES FORECAST IN R AND/OR PYTHON
 
+##INSTALL required packages for R and Python
+> otherwise you can see what you trying to see
+
 ##IN R with Books.csv
 
 > R -f forecast-exercise.R
