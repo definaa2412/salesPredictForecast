@@ -1,7 +1,14 @@
 # SALES FORECAST IN R AND/OR PYTHON
 
 ## INSTALL required packages for R and Python
-> otherwise you can see what you trying to see
+<div class="panel panel-success">
+**Do's**
+{: .panel-heading}
+<div class="panel-body">
+        - [x] get the required library for R
+        - [x] pip the required package for Python
+</div>
+</div>
 
 ## IN R with Books.csv
 
@@ -13,6 +20,16 @@
 
 ### Note
 
-<aside class="warning">
+<div class="panel panel-success">
+**Do's**
+{: .panel-heading}
+<div class="panel-body">
         Python is much more advised
-</aside>
+</div>
+</div>
+
+<style>
+.alert-green {
+  color: rgb(60,118,61) !important;
+}
+</style>
