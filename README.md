@@ -14,12 +14,13 @@
 > python forecast-exercise
 
 ### Note
-{::options parse_block_html="true" /}
-{: .alert .alert-warning}
+| WARNING: Python is much more advised |
+| --- |
+
 <div class="panel panel-warning">
 **Do's**
 {: .panel-heading}
 <div class="panel-body">
-        Python is much more advised
+        thanks!
 </div>
 </div>
