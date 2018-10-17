@@ -13,14 +13,9 @@
 
 > python forecast-exercise
 
-### Note
+### KEY POINT
 | WARNING: Python is much more advised |
 | --- |
 
-<div class="panel panel-warning">
-**Do's**
-{: .panel-heading}
-<div class="panel-body">
-        thanks!
-</div>
-</div>
+**Note:** thanks!
+{: .note}
