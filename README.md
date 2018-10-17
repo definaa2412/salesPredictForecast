@@ -1,16 +1,17 @@
-#SALES FORECAST IN R AND/OR PYTHON
+=SALES FORECAST IN R AND/OR PYTHON
 
-##INSTALL required packages for R and Python
+==INSTALL required packages for R and Python
 > otherwise you can see what you trying to see
 
-##IN R with Books.csv
+==IN R with Books.csv
 
 > R -f forecast-exercise.R
 
-##IN PYTHON With IPG2211A2N.csv
+==IN PYTHON With IPG2211A2N.csv
 
 > python forecast-exercise
 
-###Note
+==Note
+
 Python is much more advised
 
