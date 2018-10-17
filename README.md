@@ -15,20 +15,11 @@
 
 ### Note
 
-<div class="panel panel-success">
+{: .alert .alert-warning}
+<div class="panel panel-warning">
 **Do's**
 {: .panel-heading}
 <div class="panel-body">
         Python is much more advised
-</div>
-</div>
-
-<div class="panel panel-warning">
-**Warning**
-{: .panel-heading}
-<div class="panel-body">
-
-WARNING DESCRIPTION
-
 </div>
 </div>
