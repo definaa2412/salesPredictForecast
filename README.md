@@ -20,8 +20,3 @@
 ```
 thanks!
 ```
-
-<aside class="notice">
-You must replace `meowmeowmeow` with your personal API key.
-</aside>
-
