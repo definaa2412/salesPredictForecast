@@ -17,6 +17,6 @@
 | WARNING: Python is much more advised |
 | --- |
 
-<Warning>
+```
 thanks!
-</Warning>
+```
